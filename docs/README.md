@@ -26,4 +26,5 @@ git push -u origin master
 
 # CREATE-REACT-APP
 - installed rewired
+- NOT inject, to give them chance to manage allls
 ## webpack [react-scripts\config\webpack.config.js](https://github.com/facebook/create-react-app/blob/main/packages/react-scripts/config/webpack.config.js)
