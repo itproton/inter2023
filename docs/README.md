@@ -28,3 +28,31 @@ git push -u origin master
 - installed rewired
 - NOT inject, to give them chance to manage allls
 ## webpack [react-scripts\config\webpack.config.js](https://github.com/facebook/create-react-app/blob/main/packages/react-scripts/config/webpack.config.js)
+
+# Typescript + React
+
+
+# LATEST
+## 16
+- 
+## 17
+- gradual upgrades (old version co-ex)
+- top level event-component not `documentElement` (avoid conflict with other)
+- async cleanup for useEffect (after comp removed and screen updated)
+- `onClickCapture`
+
+# Performance
+
+
+
+TODO:
+
+review https://reactjs.org/docs/hooks-faq.html#is-there-something-like-instance-variables
+
+
+# React repos to follow
+useHooks https://usehooks.com/
+- https://github.com/enaqx/awesome-react
+- https://github.com/cypress-io/cypress-realworld-app
+- https://github.com/HospitalRun/hospitalrun-frontend/tree/master/src
+- https://github.com/ritz078/moose/tree/master/renderer/components
