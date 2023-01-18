@@ -39,7 +39,7 @@ git push -u origin master
 - gradual upgrades (old version co-ex)
 - top level event-component not `documentElement` (avoid conflict with other)
 - async cleanup for useEffect (after comp removed and screen updated)
-- `onClickCapture`
+- `onClickCapture`l,
 
 # Performance
 
