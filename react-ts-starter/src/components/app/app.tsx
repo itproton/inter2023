@@ -1,18 +1,15 @@
 import React from 'react';
+import { TopicsDashboard } from '../../topics';
 import './app.css';
 
 function App() {
   return (
     <div className="App">
-      Hello World
+      <TopicsDashboard />
     </div>
   );
 }
 
-
-const UseRefDemo = () => {
-  
-}
 
 
 export { App };
